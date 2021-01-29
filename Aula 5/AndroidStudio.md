@@ -6,7 +6,7 @@ O documento segue a seguinte
 
 Acessar https://developer.android.com/studio e realizar o download para o seu sistema operacional.
 
-![Android Studio Download](assets/as.png)
+![Android Studio Download](assets/as.PNG)
 
 ## Instalar Tensorflow Examples
 
@@ -18,7 +18,7 @@ Abra o terminal e realize o clone do tensorflow/examples:
 
 Com o Android Studio aberto, selecione a opção "Abrir projeto existente" e navegue até a pasta `object_detection/android`
 
-![Structure](assets/open.png)
+![Structure](assets/open.PNG)
 
 O Android Studio irá atualizar as dependências do projeto, esse processo pode levar em torno de 5 min dependendo da sua internet.
 
